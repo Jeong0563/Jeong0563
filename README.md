@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# 안녕하세요 노정원입니다
+### AI에 대해 공부하고 있습니다
 <!--
 **Jeong0563/Jeong0563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
